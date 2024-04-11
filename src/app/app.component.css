@@ -1,0 +1,15 @@
+.main {
+    color: #E4CD05;
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+}
+
+hr {
+    background-color: #E4CD05;
+}
+
+span {
+    font-weight: 500;
+    font-size: 3rem;
+}
