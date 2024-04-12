@@ -35,7 +35,8 @@ export class AppComponent {
     'Compare youself with other guys you know in a positive way.',
     'Even kids do gym now a days. Just Go for it.',
     'Consistancy can do wonders! And you know it.',
-    'You\'ve got less time to change your self. Go for it.'
+    'You\'ve got less time to change your self. Go for it.',
+    'You go to Dmart/Zudio & see youself in the mirror, You know how you feel!'
   ];
 
   getReason() : string {
